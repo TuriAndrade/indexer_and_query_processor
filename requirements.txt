@@ -1,0 +1,6 @@
+# Tokenization and text preprocessing
+nltk==3.9.4
+# Efficient numerical operations (e.g., vector computations)
+numpy==2.3.2
+# Memory usage monitoring
+psutil==7.2.0
